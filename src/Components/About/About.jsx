@@ -1,6 +1,6 @@
 import "./About.css";
 import theme_pattern from "../../assets/theme_pattern.svg";
-import profile_img from "../../assets/profile_img.jpg";
+import profile_img from "../../assets/profile_img.JPG";
 
 const About = () => {
   return (
@@ -17,7 +17,7 @@ const About = () => {
           <div className="about-para">
             <p>
               I am a 2025 B.E. graduate who loves bringing ideas to life through
-              full-stack Java development. Coding for me is not just work—it is a
+              full-stack Java development. Coding for me is not just work - it is a
               creative process where I turn concepts into clean, functional, and
               user-friendly applications. 
               </p>

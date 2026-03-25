@@ -82,7 +82,7 @@ const Contact = () => {
           <p>
             I am always excited to connect with like-minded people, potential
             employers, and collaborators. Whether it is about projects, job
-            opportunities, or just sharing ideas, feel free to reach out — I will
+            opportunities, or just sharing ideas, feel free to reach out - I will
             get back to you as soon as possible!
           </p>
           <div className="contact-details">
