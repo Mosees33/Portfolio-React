@@ -1,7 +1,7 @@
 import './Hero.css'
 import profile_img from '../../assets/profile_img.JPG'
 import AnchorLink from 'react-anchor-link-smooth-scroll'
-import Resume from '../../assets/Mosees_resume.pdf'
+import Resume from '../../assets/Mosees_Resume.pdf'
 
 const Hero = () => {
   return (
